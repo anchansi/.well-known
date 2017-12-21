@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ookbee.joyapp.android",
+    "sha256_cert_fingerprints":
+    ["7F:38:C1:5F:62:B0:B1:2D:FA:B1:FA:20:E9:AD:21:7C:96:E8:89:54:E3:A0:3E:33:5A:F4:50:29:DD:D3:0F:6D"]
+  }
+}]
